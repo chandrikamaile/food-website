@@ -1,4 +1,4 @@
-# Food Munch Website
+# Food Website
 
 This is a responsive static website for a fictional food delivery service called **Food Munch**. Built using HTML, CSS, and Bootstrap, the site features a landing page with sections for the menu, offers, healthy food options, and contact info.
 
